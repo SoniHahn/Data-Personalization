@@ -295,9 +295,9 @@ function buildHeatMap(data){
 				d.who.forEach(function(data){
 					people += data+"<br/>";
 				});
-//				d.where.forEach(function(data){
-//					where += data+"<br/>";
-//				});
+				d.where.forEach(function(data){
+					where += data+"<br/>";
+				});
 				
 				$("#date").text(month+" "+d.day+", "+d.year);
 				$("#time_spent").text(d.hour+"h");
@@ -305,7 +305,7 @@ function buildHeatMap(data){
 				$("#drinks_info").html(drinkInfo);
 				$("#d_people").html(people);
 				$("#d_amount").html(amount);
-//				$("#d_location").html(where);
+				$("#d_location").html(where);
 				$("#occasion").text(d.occasion);
 			});//onmouseover 
 		
