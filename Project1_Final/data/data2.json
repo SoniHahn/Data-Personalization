@@ -14,7 +14,7 @@
     "amount": [
       "6 glasses"
     ],
-    "spent": 0,
+    "spent": 50,
     "where": [
       "El Cantinero"
     ],
@@ -22,7 +22,14 @@
     "who": [
       "20+"
     ],
-    "occasion": "TNO"
+    "occasion": "TNO",
+     "location": {
+      "add": "El cantinero",
+      "geo": [
+        40.733907,
+        -73.993255
+      ]
+    }
   },
   {
     "date": "October 2, 2015",
@@ -62,7 +69,14 @@
     "who": [
       "Alone"
     ],
-    "occasion": ""
+    "occasion": "",
+    "location": {
+      "add": "Home",
+      "geo": [
+        40.727266,
+        -73.988119
+      ]
+    }
   },
   {
     "date": "October 4, 2015",
@@ -87,7 +101,14 @@
     "who": [
       "Alone"
     ],
-    "occasion": ""
+    "occasion": "",
+        "location": {
+      "add": "Home",
+      "geo": [
+        40.727266,
+        -73.988119
+      ]
+    }
   },
   {
     "date": "October 5, 2015",
@@ -194,7 +215,7 @@
       "Lagunitas IPA"
     ],
     "amount": [
-      "2 pint"
+      "2 pints"
     ],
     "spent": 16,
     "where": [
@@ -921,7 +942,14 @@
     "who": [
       "2"
     ],
-    "occasion": ""
+    "occasion": "",
+            "location": {
+      "add": "Home",
+      "geo": [
+        40.727266,
+        -73.988119
+      ]
+    }
   },
   {
     "date": "August 5, 2015",
@@ -961,7 +989,14 @@
     "who": [
       "8"
     ],
-    "occasion": "ITP Ramen Club"
+    "occasion": "ITP Ramen Club",
+            "location": {
+      "add": "ITP Ramen Club",
+      "geo": [
+        40.756386,
+        -73.968204
+      ]
+    }
   },
   {
     "date": "August 7, 2015",
@@ -983,7 +1018,7 @@
     "year": 2015,
     "month": 8,
     "day": 8,
-    "hour": 0,
+    "hour": 6,
     "type": [
       "Beer"
     ],
@@ -993,7 +1028,7 @@
     "amount": [
       "2 pints"
     ],
-    "spent": 13,
+    "spent": 19,
     "where": [
       "Output"
     ],
@@ -1001,7 +1036,14 @@
     "who": [
       "4"
     ],
-    "occasion": "JAMIE XX"
+    "occasion": "JAMIE XX",
+    "location": {
+      "add": "Output",
+      "geo": [
+        40.722429,
+        -73.957765
+      ]
+    }
   },
   {
     "date": "August 9, 2015",
@@ -1131,7 +1173,14 @@
     "who": [
       "2"
     ],
-    "occasion": "Pioneer Works Party"
+    "occasion": "Pioneer Works Party",
+    "location": {
+      "add": "Pioneer Works",
+      "geo": [
+        40.679337,
+        -74.012281
+      ]
+    }
   },
   {
     "date": "August 17, 2015",
@@ -1168,15 +1217,22 @@
     "year": 2015,
     "month": 8,
     "day": 19,
-    "hour": 0,
-    "type": [],
-    "name": [],
-    "amount": [],
-    "spent": 0,
-    "where": [],
-    "drunkenness": "0",
-    "who": [],
-    "occasion": ""
+    "hour": 2,
+    "type": ["Beer"],
+    "name": ["Samuel Adams"],
+    "amount": ["2 Bottles"],
+    "spent": 9,
+    "where": ["Home"],
+    "drunkenness": "2",
+    "who": [2],
+    "occasion": "",
+            "location": {
+      "add": "Home",
+      "geo": [
+        40.727266,
+        -73.988119
+      ]
+    }
   },
   {
     "date": "August 20, 2015",
@@ -1213,15 +1269,22 @@
     "year": 2015,
     "month": 8,
     "day": 22,
-    "hour": 0,
-    "type": [],
-    "name": [],
-    "amount": [],
-    "spent": 0,
-    "where": [],
-    "drunkenness": "0",
-    "who": [],
-    "occasion": ""
+    "hour": 3,
+    "type": ["Beer"],
+    "name": ["Brooklyn Lager"],
+    "amount": ["4 pints"],
+    "spent": 24,
+    "where": ["7th Bar"],
+    "drunkenness": "2",
+    "who": [4],
+    "occasion": "",
+     "location": {
+      "add": "7th Bar",
+      "geo": [
+        40.727213,
+        -73.985823
+      ]
+    }
   },
   {
     "date": "August 23, 2015",
@@ -1246,7 +1309,14 @@
     "who": [
       "Alone"
     ],
-    "occasion": ""
+    "occasion": "",
+            "location": {
+      "add": "Home",
+      "geo": [
+        40.727266,
+        -73.988119
+      ]
+    }
   },
   {
     "date": "August 24, 2015",
@@ -1271,7 +1341,14 @@
     "who": [
       "2"
     ],
-    "occasion": "New Jersey Trip"
+    "occasion": "New Jersey Trip",
+     "location": {
+      "add": "New Jersey",
+      "geo": [
+        40.862677,
+        -74.176001
+      ]
+    }
   },
   {
     "date": "August 25, 2015",
@@ -1323,15 +1400,22 @@
     "year": 2015,
     "month": 8,
     "day": 28,
-    "hour": 0,
+    "hour": 4,
     "type": ["Bourbon"],
     "name": ["Four Flowers"],
     "amount": ["4 glasses"],
     "spent": 20,
-    "where": [],
-    "drunkenness": "0",
-    "who": [],
-    "occasion": ""
+    "where": ["Namu's Home"],
+    "drunkenness": "3",
+    "who": [4],
+    "occasion": "",
+     "location": {
+      "add": "New Jersey",
+      "geo": [
+        40.725089,
+        -73.983138
+      ]
+    }
   },
   {
     "date": "August 29, 2015",

@@ -34,9 +34,9 @@ img {
 
 .img-responsive1{
 /*  margin-top: 15px;*/
-  max-width: 85%;
+  max-width: 90%;
   height: auto;
-  margin-top: 32px;  
+  margin-top: 30px;  
 /*  display: block;*/
 }
 
@@ -64,35 +64,35 @@ h1{
 }
 
 .t1-1-title{	
-	font-size:1em;
+	font-size:1.2em;
 	color:#646fb8;
   text-align: left;
   margin-bottom: 20px;
 }
 .t1-1-body{
-  font-size:2em;
+  font-size:2.2em;
   color:#646fb8;
   margin-bottom: 20px;
 }
 .t1-2-title{  
-  font-size:1em;
+  font-size:1.2em;
   color:#C25EAE;
   text-align: left;
   margin-bottom: 20px;
 }
 .t1-2-body{
-	font-size:2em;
+	font-size:2.2em;
 	color:#C25EAE;
   margin-bottom: 20px;
 }
 .t1-3-title{  
-  font-size:1em;
+  font-size:1.2em;
   color:#4FA0AE;
   text-align: left;
   margin-bottom: 20px;
 }
 .t1-3-body{
-  font-size:2em;
+  font-size:2.2em;
   color:#4FA0AE;
   margin-bottom: 20px;
 }

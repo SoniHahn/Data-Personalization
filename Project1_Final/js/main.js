@@ -305,7 +305,7 @@ function buildHeatMap(data){
 				$("#drinks_info").html(drinkInfo);
 				$("#d_people").html(people);
 				$("#d_amount").html(amount);
-				$("#d_location").html(where);
+				$("#d_where").html(where);
 				$("#occasion").text(d.occasion);
 			});//onmouseover 
 		
