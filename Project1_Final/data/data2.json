@@ -324,7 +324,7 @@
       "Bud Light"
     ],
     "amount": [
-      "1 cans"
+      "1 can"
     ],
     "spent": 1.5,
     "where": [
@@ -446,7 +446,7 @@
       "Margarita"
     ],
     "amount": [
-      "2 glass"
+      "2 glasses"
     ],
     "spent": 28,
     "where": [
@@ -510,7 +510,7 @@
       "Brooklyn Lager"
     ],
     "amount": [
-      "3 pint"
+      "3 pints"
     ],
     "spent": 20,
     "where": [
@@ -667,8 +667,8 @@
       "Pabst Blue Ribbon"
     ],
     "amount": [
-      "2 pint",
-      "2 can"
+      "2 pints",
+      "2 cans"
     ],
     "spent": 3,
     "where": [
@@ -704,7 +704,7 @@
     ],
     "amount": [
       "3 bottles",
-      "3 pint"
+      "3 pints"
     ],
     "spent": 16,
     "where": [
@@ -773,9 +773,9 @@
       "Southern tier"
     ],
     "amount": [
-      "1 bottles",
-      "1 bottles",
-      "1 bottles",
+      "1 bottle",
+      "1 bottle",
+      "1 bottle",
       "2 bottles"
     ],
     "spent": 52,

@@ -43,8 +43,8 @@ img {
 
 h2{  
     font-family: 'Alegreya Sans SC', sans-serif;
-    margin-top: 30px;  
-    margin-bottom: 30px;
+    margin-top: 35px;  
+    margin-bottom: 35px;
     color: #ada08d;
 }
 
@@ -64,7 +64,7 @@ h1{
 }
 
 .t1-1-title{	
-	font-size:1.2em;
+	font-size:1.1em;
 	color:#646fb8;
   text-align: left;
   margin-bottom: 20px;
@@ -75,7 +75,7 @@ h1{
   margin-bottom: 20px;
 }
 .t1-2-title{  
-  font-size:1.2em;
+  font-size:1.1em;
   color:#C25EAE;
   text-align: left;
   margin-bottom: 20px;
@@ -86,7 +86,7 @@ h1{
   margin-bottom: 20px;
 }
 .t1-3-title{  
-  font-size:1.2em;
+  font-size:1.1em;
   color:#4FA0AE;
   text-align: left;
   margin-bottom: 20px;
@@ -133,7 +133,7 @@ h1{
   text-align: center;
 }
 
-#chart-holder h2{
+#chart-holder {
   color: #3B4269;
 }
 

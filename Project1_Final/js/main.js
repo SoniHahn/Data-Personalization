@@ -43,7 +43,7 @@ function buildMap (location, elements) {
     return {
       center: {lat: 40.727237, lng: -73.988156},
 //      center: location,
-      zoom: 12,
+      zoom: 10,
       disableDefaultUI: true,
       zoomControl: true,
       zoomControlOptions: {
